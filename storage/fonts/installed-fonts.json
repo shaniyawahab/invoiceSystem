@@ -1,0 +1,18 @@
+{
+    "material icons": {
+        "normal": "material_icons_normal_c8ff36056e8dee147c1ed2d6ed4318a4"
+    },
+    "roboto": {
+        "300": "C:\\laragon\\www\\invoices\\storage\\fonts\/roboto_300_32acfcb296f555e063ebba2be7db9e2f",
+        "normal": "C:\\laragon\\www\\invoices\\storage\\fonts\/roboto_normal_7bc701b343c10631f60048716b96e4f7",
+        "500": "C:\\laragon\\www\\invoices\\storage\\fonts\/roboto_500_5774d6fb05eba3d096525f821dbe4137",
+        "bold": "roboto_bold_8db5cb5d0586c1e891426d13097b1d04"
+    },
+    "roboto slab": {
+        "normal": "C:\\laragon\\www\\invoices\\storage\\fonts\/roboto_slab_normal_f2cbb4e7da8833349e5b3bd73ceae8d4",
+        "bold": "roboto_slab_bold_9dc638bfdb47b27388001dd78f223ab1"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_d726fe9f0eedcde03c194e171054f6d7"
+    }
+}
